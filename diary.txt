@@ -1,5 +1,4 @@
 COMP2041 Assignment 2
-Diary - William Fan - z5059967
 
 11/10/16    21:00   21:30
 Activity: Setup
